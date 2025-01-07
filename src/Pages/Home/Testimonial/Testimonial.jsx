@@ -29,7 +29,7 @@ const Testimonial = () => {
     })
    },[])
 
-    console.log(reviews);
+    // console.log(reviews);
 
 
 
