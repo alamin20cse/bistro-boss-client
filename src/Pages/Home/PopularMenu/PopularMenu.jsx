@@ -13,7 +13,7 @@ const PopularMenu = () => {
             setMenu(popularItems);
         })
     },[])
-    console.log(menu)
+    // console.log(menu)
 
 
     return (
